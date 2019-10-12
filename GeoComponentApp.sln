@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoComponentApp", "GeoComponentApp\GeoComponentApp.csproj", "{333D20EE-636A-42BB-946B-9A787FF38372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary1", "RazorClassLibrary1\RazorClassLibrary1.csproj", "{8CB0C676-551F-4932-9019-515742352A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333D20EE-636A-42BB-946B-9A787FF38372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333D20EE-636A-42BB-946B-9A787FF38372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333D20EE-636A-42BB-946B-9A787FF38372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333D20EE-636A-42BB-946B-9A787FF38372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB0C676-551F-4932-9019-515742352A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB0C676-551F-4932-9019-515742352A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB0C676-551F-4932-9019-515742352A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB0C676-551F-4932-9019-515742352A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BCE2A31-58F3-47FE-8053-E4BFC258EE33}
+	EndGlobalSection
+EndGlobal
